@@ -1,0 +1,3 @@
+rootProject.name = "PixSample"
+include ':app'
+include ':pix'
